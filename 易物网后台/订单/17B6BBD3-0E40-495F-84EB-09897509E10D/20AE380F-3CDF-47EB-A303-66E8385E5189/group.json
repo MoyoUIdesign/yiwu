@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "20AE380F-3CDF-47EB-A303-66E8385E5189",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 233,
+    "width": 364,
+    "x": 982,
+    "y": 110
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DC4BEBFF-2A65-41EB-8BC9-88D9AEAA509A"
+    },
+    {
+      "class": "group",
+      "id": "A7E58A60-DA84-4188-9B5D-AA8DB4209DB7"
+    }
+  ],
+  "name": "支付信息",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
