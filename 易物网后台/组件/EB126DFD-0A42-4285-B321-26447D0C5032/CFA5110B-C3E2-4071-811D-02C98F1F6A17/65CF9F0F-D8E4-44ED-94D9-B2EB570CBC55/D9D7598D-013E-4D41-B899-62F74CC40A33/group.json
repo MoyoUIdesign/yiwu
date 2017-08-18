@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "D9D7598D-013E-4D41-B899-62F74CC40A33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 80,
+    "x": 161,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BFFE6FAC-7217-425C-85AA-FF9758B75EDB"
+    },
+    {
+      "class": "text",
+      "id": "7F921CFD-A6B8-4D67-957E-6A218688BADF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48364713-8BBB-4CDA-A062-8126B2E7AAB8"
+    }
+  ],
+  "name": "广州市",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

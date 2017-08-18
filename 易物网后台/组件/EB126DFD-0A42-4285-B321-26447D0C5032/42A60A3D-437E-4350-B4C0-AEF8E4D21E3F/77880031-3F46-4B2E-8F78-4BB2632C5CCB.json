@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PkhLTlFZXWFkZlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA2RVLlQOfxZT99MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIj5MzM3SCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABfEBFQaW5nRmFuZ1NDLU1lZGl1bdI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y1T9ACkFCQ0RFRkZaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAABAEgBSAEoAS0hIKSUqggBPSNDVMTVdOU0FycmF5okw50jQ1T1BfEBBOU1BhcmFncmFwaFN0eWxlok851FJTVApVVldYVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUwwLjQgMC40IDAuNAAQAYAWgBjSWgpbXFROU0lEEAGAF9I0NV5fXE5TQ29sb3JTcGFjZaJgOVxOU0NvbG9yU3BhY2XSNDViY1dOU0NvbG9yomI50jQ1OGWiODnSNDVnaF8QEk5TQXR0cmlidXRlZFN0cmluZ6JpOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFsbVRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCOAJUAnQCoAK0ArwCxALMAtQC6ALwAvgDAAMIAxADLAO0BAAEIAQ0BEgEvATEBMwE6AT0BPwFBAUQBRgFIAUoBYAF2AX8BkwGYAaMBrAHCAcYB0wHcAeEB9AH3AgoCFQIgAiwCOQJFAkcCSQJLAk0CTwJUAlUCVwJcAmQCZwJsAn8CggKLApECngKzAsACwgLEAsYCywLQAtIC1ALZAuYC6QL2AvsDAwMGAwsDDgMTAygDKwNAA1IDVQNaAAAAAAAAAgEAAAAAAAAAbgAAAAAAAAAAAAAAAAAAA1w="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "77880031-3F46-4B2E-8F78-4BB2632C5CCB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 49,
+    "x": 111,
+    "y": 10
+  },
+  "glyphBounds": "{{0, 3}, {49, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "售后编号",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "573FEFFF-0B81-444F-B019-671E93E8B84C"
+  },
+  "textBehaviour": 0
+}

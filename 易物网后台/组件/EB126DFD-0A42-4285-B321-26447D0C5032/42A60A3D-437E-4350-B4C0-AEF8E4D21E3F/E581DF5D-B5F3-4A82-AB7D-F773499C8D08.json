@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PkhLTlFZXWFkZlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA2JTBYj50xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IiPkzMzdIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEVBpbmdGYW5nU0MtTWVkaXVt0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LVP0AKQUJDREVGRlpOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAEASAFIASgBLSEgpJSqCAE9I0NUxNV05TQXJyYXmiTDnSNDVPUF8QEE5TUGFyYWdyYXBoU3R5bGWiTznUUlNUClVWV1hVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTDAuNCAwLjQgMC40ABABgBaAGNJaCltcVE5TSUQQAYAX0jQ1Xl9cTlNDb2xvclNwYWNlomA5XE5TQ29sb3JTcGFjZdI0NWJjV05TQ29sb3KiYjnSNDU4ZaI4OdI0NWdoXxASTlNBdHRyaWJ1dGVkU3RyaW5nomk5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WxtVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAIoAkQCZAKQAqQCrAK0ArwCxALYAuAC6ALwAvgDAAMcA6QD8AQQBCQEOASsBLQEvATYBOQE7AT0BQAFCAUQBRgFcAXIBewGPAZQBnwGoAb4BwgHPAdgB3QHwAfMCBgIRAhwCKAI1AkECQwJFAkcCSQJLAlACUQJTAlgCYAJjAmgCewJ+AocCjQKaAq8CvAK+AsACwgLHAswCzgLQAtUC4gLlAvIC9wL/AwIDBwMKAw8DJAMnAzwDTgNRA1YAAAAAAAACAQAAAAAAAABuAAAAAAAAAAAAAAAAAAADWA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E581DF5D-B5F3-4A82-AB7D-F773499C8D08",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 25,
+    "x": 56,
+    "y": 10
+  },
+  "glyphBounds": "{{0, 3}, {24, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "包裹",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "573FEFFF-0B81-444F-B019-671E93E8B84C"
+  },
+  "textBehaviour": 0
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "77F97B58-FA4A-4D78-B3A2-700AFCD53656",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 424,
+    "x": 45,
+    "y": 178
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B432A19D-A97D-40F7-9DDA-9596325BD6A2"
+    },
+    {
+      "class": "text",
+      "id": "698EBC00-A8E9-438D-B392-1C8D86BC0A57"
+    }
+  ],
+  "name": "身份证",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

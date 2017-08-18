@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "AB4B7438-55B2-461B-9DE6-D564F1DD1EED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 167,
+    "width": 350,
+    "x": 2817,
+    "y": 616
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "11A0BA3E-3A2F-4AF5-A7AE-9FCE07737F66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A67B2E0-9870-43B7-ACFF-903952DD6717"
+    },
+    {
+      "class": "text",
+      "id": "F1F80895-8C9E-42F5-894E-DF45C3B2C6B1"
+    },
+    {
+      "class": "text",
+      "id": "F7746F5A-6204-4B76-8134-0EB118ADF9F1"
+    },
+    {
+      "class": "group",
+      "id": "721F16E6-E89F-43B1-BC0B-85E95A5A183D"
+    }
+  ],
+  "name": "弹窗",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
