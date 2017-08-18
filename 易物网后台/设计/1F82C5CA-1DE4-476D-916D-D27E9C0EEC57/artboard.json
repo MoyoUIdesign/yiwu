@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9882352941176471,
+    "green": 0.984313725490196,
+    "red": 0.9803921568627451
+  },
+  "do_objectID": "1F82C5CA-1DE4-476D-916D-D27E9C0EEC57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1440,
+    "width": 1366,
+    "x": 6858,
+    "y": -523
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -2244,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E9FE5077-7AC6-411A-B71E-83089DE2FC51"
+    },
+    {
+      "class": "group",
+      "id": "E9D413A2-2AFD-48C9-88BB-72ADD0526067"
+    },
+    {
+      "class": "group",
+      "id": "BBE4EB54-F999-4EDD-B1A0-77BA7B546C93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "998A9DBA-269B-43F9-9511-1E60B851C2B8"
+    },
+    {
+      "class": "group",
+      "id": "5EBAACA1-9D02-499F-A9EE-69EE224A5F0D"
+    },
+    {
+      "class": "group",
+      "id": "DA894E8B-BE40-49F7-815F-F72D7C5296AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A35AC67-A5C8-4B41-A20D-65BA5DA68211"
+    },
+    {
+      "class": "group",
+      "id": "D6C853ED-73FB-4CFE-AE72-C9627C1F8677"
+    },
+    {
+      "class": "group",
+      "id": "0C1B76C7-E43C-4F14-8794-ABBEDE543F20"
+    },
+    {
+      "class": "group",
+      "id": "8CCB1CA9-721A-47D0-8809-0C7F66CFF1B5"
+    },
+    {
+      "class": "group",
+      "id": "38D940C6-8ECD-4764-817A-CC940951F1BA"
+    },
+    {
+      "class": "group",
+      "id": "99D05145-B49F-412D-8D1C-C47DB7F831D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B386751F-595F-4BD3-B0F5-F45F7657B023"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C2E9A5DE-B2FD-44CD-B18F-EF3F35E33872"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38FA96B5-FD43-4DAF-873A-02D2B524A6E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A01A433-764C-4976-A551-6CB5FE6E3070"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 29.5,
+    "guttersOutside": true,
+    "horizontalOffset": 135,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "name": "类目组件管理",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -91,
+    "guides": [
+    ]
+  }
+}

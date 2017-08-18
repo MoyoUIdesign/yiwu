@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "380B3F04-32DD-4076-A98F-F04AE463355D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C2D5CCE2-F2DD-445D-B770-B313A5E7E838"
+    },
+    {
+      "class": "text",
+      "id": "D1ACDBFE-6310-468B-A764-909345A6ED8C"
+    },
+    {
+      "class": "bitmap",
+      "id": "46638115-07FF-4C82-AE20-1A741761FDFF"
+    },
+    {
+      "class": "bitmap",
+      "id": "B4870792-6D55-4967-9468-079B7928BC8F"
+    }
+  ],
+  "name": "订单",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

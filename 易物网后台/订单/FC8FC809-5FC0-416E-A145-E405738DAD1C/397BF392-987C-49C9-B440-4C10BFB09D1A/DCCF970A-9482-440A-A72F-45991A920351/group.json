@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "DCCF970A-9482-440A-A72F-45991A920351",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 274,
+    "width": 327,
+    "x": 20,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3226EA0A-F4B7-4FE7-93B3-06F0E5154981"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4EED6A4E-82CD-45AF-8046-6FFA47D35AB7"
+    },
+    {
+      "class": "text",
+      "id": "CC6B6D1C-2525-4DD8-9F1A-B7E007252CD7"
+    },
+    {
+      "class": "text",
+      "id": "87E6A686-3BA7-4585-9ADD-A9398A086BA2"
+    },
+    {
+      "class": "text",
+      "id": "CF05C5DD-8435-4E51-B655-3D4B54D57B56"
+    },
+    {
+      "class": "text",
+      "id": "83773064-0701-436D-A093-3DAD97BE36F8"
+    },
+    {
+      "class": "text",
+      "id": "DA6F99A4-CEEF-425F-BCED-63B745C79640"
+    },
+    {
+      "class": "text",
+      "id": "7089FB82-002E-4730-ADEC-39F683662827"
+    },
+    {
+      "class": "text",
+      "id": "1C372CC9-C7F8-4D62-BBC9-7DCA3C6F8022"
+    },
+    {
+      "class": "text",
+      "id": "C53F605F-3EE9-4F53-94F9-5014C59DF544"
+    },
+    {
+      "class": "text",
+      "id": "2493E342-E8BF-44F3-AEBC-B214316FA4E5"
+    },
+    {
+      "class": "text",
+      "id": "32373607-ABC4-404D-9CF5-7A22BED4A404"
+    },
+    {
+      "class": "text",
+      "id": "298B1111-352B-4E01-825D-2CDC609F9562"
+    },
+    {
+      "class": "text",
+      "id": "A68FC419-20B1-4768-810A-5DCBCC95253A"
+    },
+    {
+      "class": "text",
+      "id": "0A31D0C3-E766-45E9-8233-B452F5FF7DCC"
+    },
+    {
+      "class": "text",
+      "id": "080E813E-E3AD-4285-B508-A44FC1150D1E"
+    },
+    {
+      "class": "text",
+      "id": "73626482-1B85-4513-8A2B-FCCC4C65C43C"
+    },
+    {
+      "class": "group",
+      "id": "B14804DD-5C71-4BCC-B900-7C259F5E95C0"
+    }
+  ],
+  "name": "Group 6 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "AE433DE4-9B57-4250-85D2-FBA731F619A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 421,
+    "x": 48,
+    "y": 228
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "45F77E08-B7DE-4664-B65D-F9F082DB7CFF"
+    },
+    {
+      "class": "group",
+      "id": "AEC25405-B1EB-421D-B4BC-5CDF26B55B6F"
+    },
+    {
+      "class": "group",
+      "id": "51286686-C7DB-4420-88B3-236F6C7A18C7"
+    },
+    {
+      "class": "group",
+      "id": "5E13D295-DA7C-4C04-8D00-47D084E58CF5"
+    },
+    {
+      "class": "group",
+      "id": "28898EF0-5D7C-4E24-8859-B887BEF64D3B"
+    }
+  ],
+  "name": "省市区",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

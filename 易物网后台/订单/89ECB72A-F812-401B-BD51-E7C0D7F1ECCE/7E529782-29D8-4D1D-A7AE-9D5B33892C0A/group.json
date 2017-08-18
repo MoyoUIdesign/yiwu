@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7E529782-29D8-4D1D-A7AE-9D5B33892C0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 120,
+    "x": 1046,
+    "y": 688
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C1F5AF9-CB3E-47B6-977F-009159835A14"
+    },
+    {
+      "class": "text",
+      "id": "4FA494C6-5FD7-4066-9BE1-B65B24D5D6F1"
+    }
+  ],
+  "name": "同意，需用户退货 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

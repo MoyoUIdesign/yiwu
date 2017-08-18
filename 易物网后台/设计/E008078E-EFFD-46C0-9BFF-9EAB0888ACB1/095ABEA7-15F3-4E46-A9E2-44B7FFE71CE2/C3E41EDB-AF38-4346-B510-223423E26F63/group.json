@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C3E41EDB-AF38-4346-B510-223423E26F63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 370
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E3AFC7F7-1C4D-43EA-B559-229D16CD40DF"
+    },
+    {
+      "class": "text",
+      "id": "85C30EF0-E9CD-4063-83B2-F7ABC01CAA13"
+    },
+    {
+      "class": "bitmap",
+      "id": "00DB9D00-46D2-42FD-96D3-995AAC69EFAA"
+    },
+    {
+      "class": "bitmap",
+      "id": "C30BA3A1-B8D6-4171-BF0D-3FA690224D6D"
+    }
+  ],
+  "name": "易点购",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

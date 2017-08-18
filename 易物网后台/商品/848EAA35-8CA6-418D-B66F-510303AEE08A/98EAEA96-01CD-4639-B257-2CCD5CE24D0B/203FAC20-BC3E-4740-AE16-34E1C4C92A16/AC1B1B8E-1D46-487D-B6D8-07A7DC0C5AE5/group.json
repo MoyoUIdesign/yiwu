@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "AC1B1B8E-1D46-487D-B6D8-07A7DC0C5AE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 300,
+    "x": 393,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E715D3D8-6BCA-4A73-BBF5-EA8939E0EB52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD3A5B9F-F17D-4748-A577-FB9A4E1D387E"
+    }
+  ],
+  "name": "商品名称",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

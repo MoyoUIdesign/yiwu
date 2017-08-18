@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "002BE9D7-11FE-45BF-B08F-CECF38140392",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 490
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7864F6E9-4DA8-4B32-A1D8-0D834E4F3342"
+    },
+    {
+      "class": "text",
+      "id": "3068A1F3-571B-4E79-B152-0233EC830200"
+    },
+    {
+      "class": "bitmap",
+      "id": "DFB61F51-2F76-4BF2-853A-D09ABCD8D8F4"
+    },
+    {
+      "class": "bitmap",
+      "id": "9CF03E66-523A-4C6C-860B-E989E0083310"
+    }
+  ],
+  "name": "促销",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "27A6BF97-BB55-4E04-87E3-B29BDB2DCEEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 410
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "199B1E0D-503D-463F-8B7F-57E44B40D123"
+    },
+    {
+      "class": "text",
+      "id": "5DF894DE-559D-4CFB-8044-90C6878F0646"
+    },
+    {
+      "class": "bitmap",
+      "id": "84AC9233-676D-4F84-8EAC-C798607F3D48"
+    },
+    {
+      "class": "bitmap",
+      "id": "EFF71485-BA78-4967-A7DA-4661A57E72EF"
+    }
+  ],
+  "name": "优惠券",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

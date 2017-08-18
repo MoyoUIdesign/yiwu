@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8B286225-2F9F-4900-8C1D-5D47B1FA8D89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 96,
+    "x": 1010,
+    "y": 67
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E4CE211F-FF5F-4F22-8A93-A22B1C7A44DC"
+    },
+    {
+      "class": "text",
+      "id": "26615C72-28D0-41BF-BC63-8624DDB6DBD9"
+    }
+  ],
+  "name": "批量发货模板",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

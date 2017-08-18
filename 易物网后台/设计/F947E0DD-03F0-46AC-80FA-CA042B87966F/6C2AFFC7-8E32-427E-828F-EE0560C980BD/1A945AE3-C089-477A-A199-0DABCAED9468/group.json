@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "1A945AE3-C089-477A-A199-0DABCAED9468",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 170
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0121ABBC-09E9-4DBD-AB31-6DB9793493EB"
+    },
+    {
+      "class": "text",
+      "id": "40DA9326-97F9-4374-A449-60B00C7BC628"
+    },
+    {
+      "class": "bitmap",
+      "id": "5401BAEF-182B-4AE8-B26D-082B8D8D92B6"
+    },
+    {
+      "class": "bitmap",
+      "id": "3C20A3EF-423A-4311-A351-C082F64D31FB"
+    }
+  ],
+  "name": "设计",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

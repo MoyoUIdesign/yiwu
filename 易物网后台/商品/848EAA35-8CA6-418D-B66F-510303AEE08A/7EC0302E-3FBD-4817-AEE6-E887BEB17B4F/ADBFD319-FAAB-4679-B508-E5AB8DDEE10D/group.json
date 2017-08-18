@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "ADBFD319-FAAB-4679-B508-E5AB8DDEE10D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 370
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BEE9A5DF-459B-4ED6-8206-8B559191484D"
+    },
+    {
+      "class": "text",
+      "id": "71CB4BB1-0839-4137-AB6A-395E52045F48"
+    },
+    {
+      "class": "bitmap",
+      "id": "455D1D41-6931-4933-B849-066A6D511AF0"
+    },
+    {
+      "class": "bitmap",
+      "id": "A66BA7F5-8532-44F8-AF85-DC99FAB9F3CA"
+    }
+  ],
+  "name": "财务",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

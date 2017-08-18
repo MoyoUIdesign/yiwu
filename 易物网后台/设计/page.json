@@ -1,0 +1,114 @@
+{
+  "_class": "page",
+  "do_objectID": "4031FB68-D170-4F5C-B370-38B31FE549F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -674,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "0B9192BA-1D5E-4E8A-B13A-8E66839992A4"
+    },
+    {
+      "class": "artboard",
+      "id": "E008078E-EFFD-46C0-9BFF-9EAB0888ACB1"
+    },
+    {
+      "class": "artboard",
+      "id": "932AAC86-14AC-4E8D-AB1D-F87DA27168E0"
+    },
+    {
+      "class": "artboard",
+      "id": "F947E0DD-03F0-46AC-80FA-CA042B87966F"
+    },
+    {
+      "class": "artboard",
+      "id": "FEB78CB0-5579-4F82-8945-39D64EA42C7D"
+    },
+    {
+      "class": "artboard",
+      "id": "9CE10BC3-45CD-4839-9B8B-A2FAC08A1F91"
+    },
+    {
+      "class": "artboard",
+      "id": "602EE92A-A018-4EE3-8617-9D72935AAD0C"
+    },
+    {
+      "class": "artboard",
+      "id": "80FD6F24-6B09-46E0-9A9E-96E2753AA543"
+    },
+    {
+      "class": "artboard",
+      "id": "1E068833-E293-4F47-B51E-ACD7D7BEB4D9"
+    },
+    {
+      "class": "artboard",
+      "id": "671A883B-9809-48EB-9BDF-125E553632C4"
+    },
+    {
+      "class": "artboard",
+      "id": "20643A43-328A-4718-B51D-5CBC6260176C"
+    },
+    {
+      "class": "artboard",
+      "id": "1F82C5CA-1DE4-476D-916D-D27E9C0EEC57"
+    },
+    {
+      "class": "artboard",
+      "id": "5308B18A-6988-4046-8B90-B08198EE6040"
+    },
+    {
+      "class": "artboard",
+      "id": "637A456F-4D87-43AA-BB17-FEDA3A51DCD6"
+    },
+    {
+      "class": "artboard",
+      "id": "CA6E295E-9EEA-4DCE-A95B-0B9B65735519"
+    }
+  ],
+  "name": "设计",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -352,
+    "guides": [
+    ]
+  }
+}

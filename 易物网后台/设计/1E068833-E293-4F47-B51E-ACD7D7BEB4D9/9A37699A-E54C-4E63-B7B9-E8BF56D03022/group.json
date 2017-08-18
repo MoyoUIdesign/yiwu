@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "9A37699A-E54C-4E63-B7B9-E8BF56D03022",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 195,
+    "width": 1113,
+    "x": 233,
+    "y": 739
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6FDA1DA6-1D03-4A42-B245-5CD5539220C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "61ECA46E-D864-4B4B-BA25-74E516C35AD6"
+    },
+    {
+      "class": "group",
+      "id": "8917361C-7278-49B0-AA68-52196A97449B"
+    },
+    {
+      "class": "text",
+      "id": "305E6B36-EE0E-4874-9BAF-975559B10D03"
+    }
+  ],
+  "name": "展位1 copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "34AC7F7D-6096-4ED7-964B-D1FA2B6BF183",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 987,
+    "x": 56,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3827E1DC-F134-44B1-B8AC-8C24316753ED"
+    },
+    {
+      "class": "text",
+      "id": "B4867C80-8E41-4B1A-89C2-E54929E1FC44"
+    },
+    {
+      "class": "text",
+      "id": "DF7E6E74-59BD-4638-AA14-B3BEE368991C"
+    },
+    {
+      "class": "text",
+      "id": "5AE11A9F-412F-40E7-9906-94968A48C537"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "84149E7F-1AF8-46C9-83C8-E7C69BEB8CF3"
+    },
+    {
+      "class": "group",
+      "id": "E6D73146-9A95-41E9-8A99-556474CC00FD"
+    }
+  ],
+  "name": "商品1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

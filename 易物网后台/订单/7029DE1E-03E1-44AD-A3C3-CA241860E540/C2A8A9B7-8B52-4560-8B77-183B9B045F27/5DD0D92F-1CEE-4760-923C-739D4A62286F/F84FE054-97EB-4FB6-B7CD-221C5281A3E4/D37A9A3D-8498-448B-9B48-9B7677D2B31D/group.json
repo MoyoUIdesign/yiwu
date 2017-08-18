@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "D37A9A3D-8498-448B-9B48-9B7677D2B31D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 380,
+    "width": 480,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "86395569-639D-4C23-8A63-125587B7E53E"
+    },
+    {
+      "class": "text",
+      "id": "922E375A-115F-4DB7-8C4C-F9CEC6A12FFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A31BCC10-2241-4253-8707-98E3A943961D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "84B0356C-CE96-41B8-920A-CAF52379011A"
+    },
+    {
+      "class": "text",
+      "id": "A4EF08B1-E30C-42F5-9CC8-98EA5EB6463C"
+    },
+    {
+      "class": "text",
+      "id": "FF624E72-2A6F-4501-BA89-30C40B086A7C"
+    },
+    {
+      "class": "text",
+      "id": "E93C16AA-B1B9-49BE-86F7-C9394EDFC6D9"
+    },
+    {
+      "class": "text",
+      "id": "7B6D7722-AD3B-4701-BE89-A08C109CC553"
+    },
+    {
+      "class": "text",
+      "id": "516711C1-1CCE-4447-A977-909D322D024F"
+    },
+    {
+      "class": "text",
+      "id": "0250F013-17C4-4E1B-BB5E-ED817764BFD3"
+    }
+  ],
+  "name": "查看优惠券详细",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

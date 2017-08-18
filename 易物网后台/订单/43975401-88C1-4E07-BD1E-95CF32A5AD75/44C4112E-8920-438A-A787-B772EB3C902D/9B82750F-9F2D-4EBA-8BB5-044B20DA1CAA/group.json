@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "9B82750F-9F2D-4EBA-8BB5-044B20DA1CAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 274,
+    "width": 327,
+    "x": 20,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "37BB58C3-71BA-4C4E-B48A-0D7212921382"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "077C6FED-39C7-4215-A112-5C08FA83B59C"
+    },
+    {
+      "class": "text",
+      "id": "3C59D0A5-DC23-460A-8D8B-2B6F2176920F"
+    },
+    {
+      "class": "text",
+      "id": "24EBC264-EF1A-4E8F-9605-E3DACD825B7A"
+    },
+    {
+      "class": "text",
+      "id": "95F04DCB-7157-4AA4-BEF7-326115944AD5"
+    },
+    {
+      "class": "text",
+      "id": "A397964C-15BD-44CD-830A-0C1D417599FD"
+    },
+    {
+      "class": "text",
+      "id": "405BE4E6-BAC7-4DE4-A42E-E57774B5F276"
+    },
+    {
+      "class": "text",
+      "id": "B7DB8F12-CC7C-4E5B-AD2A-45A8D591DC5F"
+    },
+    {
+      "class": "text",
+      "id": "6C4FF293-FDDA-449B-8398-8CDB33049952"
+    },
+    {
+      "class": "text",
+      "id": "88A190D4-E994-4954-B622-69F9F7C370BF"
+    },
+    {
+      "class": "text",
+      "id": "A77A3A87-EE52-48BA-9C6C-8D364077E937"
+    },
+    {
+      "class": "text",
+      "id": "AF59AEA8-1320-4C54-A7F2-B584C47E4DE8"
+    },
+    {
+      "class": "text",
+      "id": "10AC68D8-F8D7-4FD2-A508-63FAF4BA5C64"
+    },
+    {
+      "class": "text",
+      "id": "EC72DBAA-1D58-4205-9960-6FE6CB014CD7"
+    },
+    {
+      "class": "text",
+      "id": "B3DB24F1-B617-41AF-A247-A784BB0B3D0C"
+    },
+    {
+      "class": "text",
+      "id": "7848F65F-BC9F-4DEC-8B96-06E4F8436448"
+    },
+    {
+      "class": "text",
+      "id": "F5E99F9D-13DB-49C4-A401-99D241AEF4F9"
+    },
+    {
+      "class": "group",
+      "id": "04F51C7F-E15D-4E03-86BC-A6B01F84A698"
+    }
+  ],
+  "name": "Group 6 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

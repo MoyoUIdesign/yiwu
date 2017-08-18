@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9882352941176471,
+    "green": 0.984313725490196,
+    "red": 0.9803921568627451
+  },
+  "do_objectID": "71B8695D-64ED-43A8-8406-2DFE812FE8C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1440,
+    "width": 1366,
+    "x": 1665,
+    "y": -1340
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -2244,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1F4EB39F-D4A1-409A-A67B-0B7F754F33B6"
+    },
+    {
+      "class": "group",
+      "id": "48F913C7-494F-4A91-A30F-463DFB6B5C83"
+    },
+    {
+      "class": "group",
+      "id": "A2FA0F80-49CF-4D02-BC3C-508527F814CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35691A33-B13B-43FF-9C45-DE2F8DD5F6A8"
+    },
+    {
+      "class": "group",
+      "id": "96F775F9-318A-4E7C-90F6-49669CC20942"
+    },
+    {
+      "class": "group",
+      "id": "4C762519-1041-47C5-BC1D-323083189982"
+    },
+    {
+      "class": "group",
+      "id": "E7C9A4E3-5EA9-4A7F-B11E-3906E83F6D9A"
+    },
+    {
+      "class": "group",
+      "id": "EC208CBF-0882-4384-AC23-AF272339F3AC"
+    },
+    {
+      "class": "group",
+      "id": "E08D364B-EB2C-4B64-AE6D-BA968647347C"
+    },
+    {
+      "class": "group",
+      "id": "CB7281B7-6F45-424A-95B8-108B06912506"
+    },
+    {
+      "class": "group",
+      "id": "02449B02-AD31-4A7F-8593-C93D9F67F98D"
+    },
+    {
+      "class": "group",
+      "id": "795DEBC4-ED0F-4C0D-9308-62728C4EE5AB"
+    },
+    {
+      "class": "group",
+      "id": "51FA2949-579C-4AAC-9423-7F504C15F96A"
+    },
+    {
+      "class": "group",
+      "id": "3DED416F-E1FF-4B1B-A86F-050D5391ACDD"
+    },
+    {
+      "class": "group",
+      "id": "6DEBC116-4904-411F-8878-3ECE0B2BD6F3"
+    },
+    {
+      "class": "group",
+      "id": "ECC6062C-E436-4B79-BB29-6313B32F6754"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 29.5,
+    "guttersOutside": true,
+    "horizontalOffset": 135,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "name": "编辑文章",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -91,
+    "guides": [
+    ]
+  }
+}

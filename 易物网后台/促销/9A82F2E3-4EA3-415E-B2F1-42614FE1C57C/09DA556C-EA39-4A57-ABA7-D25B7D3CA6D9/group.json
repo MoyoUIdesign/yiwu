@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "09DA556C-EA39-4A57-ABA7-D25B7D3CA6D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1166,
+    "x": 200,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A7489BE4-C7E5-4C33-9A48-624CFD081803"
+    },
+    {
+      "class": "text",
+      "id": "2FBC4C82-172B-4286-937C-C17DF69FF038"
+    },
+    {
+      "class": "text",
+      "id": "836425C4-1DE2-400B-9446-DFED3C798B22"
+    },
+    {
+      "class": "bitmap",
+      "id": "AB27531D-6D5A-48E7-859D-3D6EDFEECEB2"
+    },
+    {
+      "class": "text",
+      "id": "5599241D-BDCA-4B9C-BC3C-458F39C147EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C068FDE0-85C8-4773-AA42-46504178801A"
+    }
+  ],
+  "name": "头部",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

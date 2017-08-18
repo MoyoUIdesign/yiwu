@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "8F32D0A7-CA27-4D90-ACF4-F507B10762C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 300,
+    "x": 0,
+    "y": 114
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D6FD079E-1E8B-46C3-8E1C-00CC543C2D58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "845B568F-DF48-4BDB-9DA9-90FFFAF7B1F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C5A0F92-90FC-4AAA-A4FC-32EB108DBB7E"
+    },
+    {
+      "class": "text",
+      "id": "C95E9CB1-9D25-4076-812F-14B368B22A6E"
+    },
+    {
+      "class": "text",
+      "id": "7554B991-0C05-4050-B2D9-559AD281375A"
+    },
+    {
+      "class": "text",
+      "id": "DE95F2E3-04BB-4FEA-BC08-B71301BCFD55"
+    }
+  ],
+  "name": "库存区间",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

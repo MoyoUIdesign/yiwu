@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C8B07273-450F-47BD-AF0E-33A786A3018D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 450
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4FBCEBE8-77E3-43C6-BA4C-478ED86000C5"
+    },
+    {
+      "class": "text",
+      "id": "12CC4FC9-056D-4313-A589-04C048027E43"
+    },
+    {
+      "class": "bitmap",
+      "id": "DB14AEB3-BB03-40FD-9CCB-A5E3E7FA7058"
+    },
+    {
+      "class": "bitmap",
+      "id": "163E37BE-B372-4166-9A54-BB82CE07925B"
+    }
+  ],
+  "name": "文章",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

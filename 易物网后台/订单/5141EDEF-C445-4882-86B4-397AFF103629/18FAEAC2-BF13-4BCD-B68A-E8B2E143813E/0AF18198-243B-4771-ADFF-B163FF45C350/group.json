@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "0AF18198-243B-4771-ADFF-B163FF45C350",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 166,
+    "x": 865,
+    "y": 67
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3BAC292D-3BA0-49B2-AB56-3FDE6739FB08"
+    },
+    {
+      "class": "text",
+      "id": "FE3318C1-F58A-4EA0-87F6-5542F4A46032"
+    }
+  ],
+  "name": "查看优惠券详细",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

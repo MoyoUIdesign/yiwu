@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "20DC3524-5FB0-4E90-B7DE-7AE697F2F7A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 300,
+    "x": 393,
+    "y": 57
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "75D6E30C-097E-428B-9381-D4D7EB8DE5C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "667182E3-B11F-4D9E-8BD5-4ABAFDC58A33"
+    },
+    {
+      "class": "text",
+      "id": "53D976DD-7D36-4C13-B512-A85516089C3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3FF7A739-4DE4-43A9-9F8B-ED1564EF0B8E"
+    }
+  ],
+  "name": "售后状态",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

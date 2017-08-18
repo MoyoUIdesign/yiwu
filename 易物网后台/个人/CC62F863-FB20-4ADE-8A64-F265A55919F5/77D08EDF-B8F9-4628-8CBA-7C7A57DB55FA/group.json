@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "do_objectID": "77D08EDF-B8F9-4628-8CBA-7C7A57DB55FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1464,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F9239F1E-11FC-4C65-AECA-65B15B86D4F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "90A99B5C-9CAA-42E6-8561-987D2F9982A8"
+    },
+    {
+      "class": "group",
+      "id": "FDB29A90-4C7A-4B0F-8E3D-6130C0F7A000"
+    },
+    {
+      "class": "group",
+      "id": "B2B5D215-E971-4A15-8448-90D1A6A1D775"
+    },
+    {
+      "class": "group",
+      "id": "6913CB4B-C44B-4FCF-9F51-5FBFFAC3D441"
+    },
+    {
+      "class": "group",
+      "id": "4B4BB31D-0BD0-4A6C-BC0F-2293B76A48AD"
+    },
+    {
+      "class": "group",
+      "id": "C71B9D85-3428-4274-8921-623606630E95"
+    },
+    {
+      "class": "group",
+      "id": "F46E5298-4094-4CB2-8044-9537AE1C056B"
+    },
+    {
+      "class": "group",
+      "id": "6EF59216-70D2-4C44-B7E1-41990E097894"
+    },
+    {
+      "class": "group",
+      "id": "8D9E512C-4E52-4F31-A12E-63FFF4CB1064"
+    },
+    {
+      "class": "group",
+      "id": "11603307-1416-49D7-A79A-AA8D3B2842B8"
+    },
+    {
+      "class": "group",
+      "id": "AC5237A8-69BF-4CDD-BF64-E00EF9CE94C6"
+    },
+    {
+      "class": "group",
+      "id": "E43114EB-6A67-42FE-B629-F4512372EAE7"
+    },
+    {
+      "class": "group",
+      "id": "63994905-03AB-49FA-83A6-F9C42D6F5E1C"
+    }
+  ],
+  "name": "侧边栏",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

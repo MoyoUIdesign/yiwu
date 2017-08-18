@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5E13D295-DA7C-4C04-8D00-47D084E58CF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 80,
+    "x": 341,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8C8EA64D-A7CE-44C0-BE1F-4865021EEBC5"
+    },
+    {
+      "class": "text",
+      "id": "C9F5D0B8-716A-483A-A5E2-CE8633FD78CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EDC8F84-E66A-4E62-9212-C935B89E4889"
+    }
+  ],
+  "name": "番禺区 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "49C3D31E-CDD4-4B5B-886A-84AB2FEE3EDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 300,
+    "x": 393,
+    "y": 114
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "95D5E635-7D5E-42BC-BDCB-9E36FFC67255"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C15EFD74-5988-4BB6-869B-923ED2CCEBED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "939EDF4B-A96D-4C89-9A55-088F2EAF4832"
+    },
+    {
+      "class": "text",
+      "id": "1A1C3F3B-0919-440D-B450-4DED242887A4"
+    },
+    {
+      "class": "text",
+      "id": "4A3765DD-6294-432D-9E15-BEB2D622F2EB"
+    },
+    {
+      "class": "text",
+      "id": "2E5C3934-5143-4030-9323-64815331A308"
+    }
+  ],
+  "name": "价格区间",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
